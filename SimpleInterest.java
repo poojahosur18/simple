@@ -1,5 +1,4 @@
 
-package SimpleInsterest;
 
 public class SimpleInterest {
 
